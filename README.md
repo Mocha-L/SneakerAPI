@@ -8,7 +8,7 @@ SneakerAPI 是一个提供 Goat API、alias API 和 StockX API 远程 HTTP 访�
 - [Stockx接口文档（可在线测试接口）](http://stockxapi.spiderx.cc:61030/docs)
 - [Goat/Alias接口文档（可在线测试接口）](http://goatapi.spiderx.cc:61030/docs)
 
-Python示例代码可参考python目录
+Python示例代码可参考`python`目录
 
 ## 支持接口
 
