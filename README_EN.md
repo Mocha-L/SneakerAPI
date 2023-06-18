@@ -43,8 +43,8 @@ For access and inquiries, please reach out to:
 
 E-Mail: mocha_lee@qq.com
 
-WeChat: TTF_TTF
+Discord: Sting#3882
 
-
+Discord Server: [SneakerAPI Group](https://discord.gg/zFwMS6GZYY)
 
 Contact us to request a trial period (one week). If you have additional requirements or need further assistance, feel free to discuss them with us.
