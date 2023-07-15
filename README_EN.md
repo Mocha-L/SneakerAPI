@@ -43,7 +43,7 @@ For access and inquiries, please reach out to:
 
 E-Mail: mocha_lee@qq.com
 
-Discord: Sting#3882
+Discord: sting_lee
 
 Discord Server: [SneakerAPI Group](https://discord.gg/zFwMS6GZYY)
 
