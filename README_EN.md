@@ -45,8 +45,6 @@ E-Mail: mocha_lee@qq.com
 
 Discord: sting_lee
 
-Discord Server: [SneakerAPI Group](https://discord.gg/zFwMS6GZYY)
-
 Contact us to request a trial period (one week). If you have additional requirements or need further assistance, feel free to discuss them with us.
 
 ## Quotation
