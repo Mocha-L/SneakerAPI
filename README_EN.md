@@ -31,6 +31,7 @@ SneakerAPI supports the following interfaces for Goat, alias, and StockX:
   - Enable/disable vacation mode
   - Remove products from sale
   - Create shipping label (StockX)
+  - Download shipping label
   - Modify product price (individual/batch)
   - List products for sale (individual/batch)
 
