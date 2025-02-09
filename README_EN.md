@@ -5,8 +5,8 @@ English | [中文版](./README.md)
 SneakerAPI is a project that provides remote HTTP access to the Goat API, alias API, and StockX API. It supports all interfaces of these three platforms and serves as a global sneaker seller's tool, assisting in automating processes such as selling sneakers. The interfaces are actively maintained to ensure long-term availability.
 
 For detailed information about the interfaces, please refer to the following documents.
-- [StockX API documentation(Online testing interface)](http://43.136.43.128:61030/api/stockx/docs)
-- [Goat/Alias API documentation(Online testing interface)](http://43.136.43.128:61030/api/alias/docs)
+- [StockX API documentation(Online testing interface)](http://api.spiderx.cc:61030/api/stockx/docs)
+- [Goat/Alias API documentation(Online testing interface)](http://api.spiderx.cc:61030/api/alias/docs)
 
 Python sample code can be found in the `python` directory.
 
@@ -15,25 +15,36 @@ Python sample code can be found in the `python` directory.
 SneakerAPI supports the following interfaces for Goat, alias, and StockX:
 
 - Interfaces for non-login status:
-  - Search for products
-  - View historical sales records
-  - Get product details
-  - Retrieve product sizes/market prices
+  - Search products (including all filter conditions)
+  - Search products by barcode
+  - Product historical sales records (all sizes and specified sizes)
+  - Product seller quotes (all sizes and specified sizes)
+  - Product buyer bids (all sizes and specified sizes)
+  - Product details
+  - Product sizes/market prices
+  - Product market data (including the highest price, lowest price, trading range, price fluctuations, sales volume, average price, etc., for the past 12 months)
+  - Product official guidance price
+  - Product historical prices
 
 - Interfaces for login status:
-  - Access user basic information
-  - Retrieve seller information
+  - Account login
+  - User basic information
+  - Seller information
   - Update access_token
-  - Get on-sale products
-  - View sold products
-  - Access historical sold products
-  - Retrieve order details
+  - Products for sale
+  - Sold products
+  - Historical sold products
+  - Order details
+  - Get shipping label PDF
   - Enable/disable vacation mode
-  - Remove products from sale
-  - Create shipping label (StockX)
+  - Delist product
+  - Create, delete, and get bulk shipping orders (StockX)
+  - Request shipping extension
+  - Cancel order
   - Download shipping label
-  - Modify product price (individual/batch)
-  - List products for sale (individual/batch)
+  - Change product price (single/bulk)
+  - List product (single/bulk)
+  - Buyer bids
 
 - Other interfaces:
   - Support additional interfaces as per your requirements
