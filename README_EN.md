@@ -2,6 +2,8 @@
 
 English | [中文版](./README.md)
 
+(**This project has been under long-term maintenance since 2022, serving numerous customers with stability and reliability**. We look forward to working with you)
+
 SneakerAPI is a project that provides remote HTTP access to the Goat API, alias API, and StockX API. It supports all interfaces of these three platforms and serves as a global sneaker seller's tool, assisting in automating processes such as selling sneakers. The interfaces are actively maintained to ensure long-term availability.
 
 For detailed information about the interfaces, please refer to the following documents.
